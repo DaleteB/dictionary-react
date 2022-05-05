@@ -1,13 +1,22 @@
 import FontAwesomeIcon from './FontAwesomeIcon';
+import Dictionary from "./Dictionary";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      <h1>Searching...</h1>
-      <FontAwesomeIcon icon="fa-brands fa-searchengin" />
-      </header>
+      <div className='container'>
+       <header className="App-header">
+        <h1>Dictionary</h1>
+      </header> 
+      <main>
+        <Dictionary/>
+      </main>
+      <footer>
+        <p>Coded by Dalete Pokrywiesky</p>
+      </footer>
+      </div>
+      
     </div>
   );
 }
