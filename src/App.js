@@ -1,4 +1,4 @@
-import FontAwesomeIcon from './FontAwesomeIcon';
+
 import Dictionary from "./Dictionary";
 import './App.css';
 
