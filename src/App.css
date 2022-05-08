@@ -1,9 +1,21 @@
-.App {
+
+body{
+  background: #fdffab;
+}
+
+a{
+  color: #a8e6cf;
+}
+
+.App-header{
+  margin: 30px 0;
+}
+
+header h1{
+  color: #fb9993 ;
+}
+
+.App-footer p{
   text-align: center;
+  margin: 30px 0;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-
