@@ -31,7 +31,7 @@ header h1{
 
 @media (max-width: 390px) {
   body{
-    background: url(./pexels-messala-ciulla-942872.jpg) no-repeat center center fixed;
+    background: url(./pexels-messala-ciulla-small.jpg) no-repeat center center fixed;
     background-size: cover;
   }
 
