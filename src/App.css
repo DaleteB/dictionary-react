@@ -1,12 +1,13 @@
 
 body{
-  background: url(./pexels-messala-ciulla-942872.jpg) no-repeat center center fixed;
+  background: url(./pexels-allec-gomes-4699016.jpg) no-repeat center center fixed;
   background-size: cover;
+  font-family: 'Poppins', sans-serif;
 }
 
 .App{
-  padding: 60px 0 100px;
-  max-width: 700px;
+  padding: 40px 0 100px;
+  max-width: 600px;
   margin: 0 auto;
 }
 
@@ -31,8 +32,9 @@ header h1{
 
 @media (max-width: 390px) {
   body{
-    background: url(./pexels-messala-ciulla-small.jpg) no-repeat center center fixed;
+    background: url(./pexels-allec-gomes-4699016.jpg) no-repeat center center fixed;
     background-size: cover;
+    
   }
 
   header h1{
