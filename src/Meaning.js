@@ -13,6 +13,7 @@ export default function Meaning(props){
             return(
                 <div key={index}>
                     <div className="definition">
+                        <em>Definition: </em>
                         {definition.definition}
                     </div>   
                     <div className="example"> 

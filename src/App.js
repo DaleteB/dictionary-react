@@ -10,10 +10,10 @@ export default function App() {
         <h1>Dictionary</h1>
       </header> 
       <main>
-        <Dictionary defaultKeyword="God" />
+        <Dictionary defaultKeyword="Heaven" />
       </main>
       <footer className="App-footer">
-        <p>Coded by <a href="linkedin.com/in/dalete-pokrywiesky">Dalete Pokrywiesky</a> and open-source in <a href="https://github.com/DaleteB/dictionary-react">GitHub</a></p>
+        <p>Coded by <a href="linkedin.com/in/dalete-pokrywiesky">Dalete Pokrywiesky</a> and is open-source on <a href="https://github.com/DaleteB/dictionary-react">GitHub</a></p>
       </footer>
       </div>
       
