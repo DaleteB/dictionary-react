@@ -13,7 +13,7 @@ export default function App() {
         <Dictionary defaultKeyword="God" />
       </main>
       <footer className="App-footer">
-        <p>Coded by Dalete Pokrywiesky</p>
+        <p>Coded by <a href="linkedin.com/in/dalete-pokrywiesky">Dalete Pokrywiesky</a> and open-source in <a href="https://github.com/DaleteB/dictionary-react">GitHub</a></p>
       </footer>
       </div>
       

@@ -1,16 +1,18 @@
 
 body{
-  background: #fdffab;
+  background: url(./pexels-messala-ciulla-942872.jpg) no-repeat center center fixed;
+  background-size: cover;
 }
 
 .App{
   padding: 60px 0 100px;
-  max-width: 960px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
  a{
   color: #a8e6cf;
+  text-decoration: none;
 }
 
 .App-header{
@@ -18,7 +20,8 @@ body{
 }
 
 header h1{
-  color: #fb9993 ;
+  color: black ;
+  font-weight: bold;
 }
 
 .App-footer p{

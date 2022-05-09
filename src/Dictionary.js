@@ -52,7 +52,7 @@ export default function Dictionary(props){
                 <input type="search" onChange={handleKeywordChange} defaultValue={props.defaultKeyword}/>
             </form> 
             <div className="hint">
-                suggested words: sunset, wine, yoga, plant ...
+                suggested words: sunset, embroidery, dog, cat ...
             </div>
             </section>
             <Results results={results}/>  
